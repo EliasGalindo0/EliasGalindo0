@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body {
+            background-color: #f06d06;
+            color: white; 
+            font-family: system-ui;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Iniciando meus estudos com DOM</h1>
+    
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript.</p>
+
+    <div id = "msg" onclick = "clicar()"> <strong>Clique em mim!</strong>
+    
+    </div>
+    
+    <script>
+        
+        let d = document.querySelector("div#msg")
+        d.style.background = "black";
+        document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
+        window.document.getElementsByTagName("p")[1].style.fontSize = "6vw"
+        
+    </script>
+
+    <script>
+            function clicar() {
+            var click = document.getElementById("msg")
+            click.innerText = "Hello World!";
+        }
+
+    </script>
+
+</body>
+</html>
