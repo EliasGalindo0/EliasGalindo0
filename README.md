@@ -13,7 +13,7 @@
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Contact
+## Contact & Social
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link_do_seu_perfil)](https://www.linkedin.com/in/eliasgalindo/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=link_do_seu_perfil)](https://github.com/EliasGalindo0)
@@ -23,7 +23,7 @@
 
 ## GitHub
 
-![Status](https://github-readme-stats.vercel.app/api?username=EliasGalindo0) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact)](https://github.com/EliasGalindo0)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact)](https://github.com/EliasGalindo0">
 
 ## Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -31,6 +31,8 @@
 
 ##
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif>
+
+![Snake animation](https://github.com/EliasGalindo0/EliasGalindo0/blob/output/github-contribution-grid-snake.svg)
 <!---
 EliasGalindo0/EliasGalindo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
