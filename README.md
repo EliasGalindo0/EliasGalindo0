@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EliasGalindo0
 - 👀 I’m interested in... Learn to code
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... JavaScript
+- 🌱 I’m currently learning ... Full Stack Web Development 
+- 💞️ I’m looking to collaborate on ... Projects 
 - 📫 How to reach me ... eliasgalindo@gmail.com
 
 ## About me
