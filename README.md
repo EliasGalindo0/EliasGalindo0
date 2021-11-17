@@ -23,7 +23,7 @@
 
 ## GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact)](https://github.com/EliasGalindo0">
+<img src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact)](https://github.com/EliasGalindo0">
 
 ## Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
