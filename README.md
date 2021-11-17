@@ -1,4 +1,4 @@
-# 👋 ```**Hi, I’m @EliasGalindo0**```
+# 👋 ```**Hi, I’m @EliasGalindo0```
 👀 I’m interested in... Learn to code
 
 🌱 I’m currently learning ... Full Stack Web Development
