@@ -1,5 +1,13 @@
 # Hi, I’m @EliasGalindo0
 
+## GitHub
+![Snake animation](https://github.com/EliasGalindo0/EliasGalindo0/blob/output/github-contribution-grid-snake.svg)
+<div>
+<a href="https://beacons.ai/EliasGalindo0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
+ </div>
+
 ## Studying
 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,15 +22,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https://www.instagram.com/eliasgalindo0/)
 <a href = "mailto:eliasgalindo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## GitHub
-<div>
-<a href="https://beacons.ai/EliasGalindo0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
- </div>
-    
-![Snake animation](https://github.com/EliasGalindo0/EliasGalindo0/blob/output/github-contribution-grid-snake.svg)
-    
 ## Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
