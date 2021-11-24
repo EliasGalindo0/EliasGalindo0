@@ -1,11 +1,4 @@
-# 👋 ```Hi, I’m @EliasGalindo0```
-👀 I’m interested in... Learn to code
-
-🌱 I’m currently learning ... Full Stack Web Development
-
-💞️ I’m looking to collaborate on ... Projects 
-
-📫 How to reach me ... eliasgalindo@gmail.com
+# Hi, I’m @EliasGalindo0
 
 ## Studying
 
@@ -22,11 +15,11 @@
 <a href = "mailto:eliasgalindo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## GitHub
-  <div>
+<div>
 <a href="https://beacons.ai/EliasGalindo0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+ </div>
     
 ![Snake animation](https://github.com/EliasGalindo0/EliasGalindo0/blob/output/github-contribution-grid-snake.svg)
     
