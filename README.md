@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/EliasGalindo0">
-  <a href="https://app.daily.dev/Eliasgalindo0"><img src="https://api.daily.dev/devcards/2ebe880759cb4b48a63e76384b4ae03e.png?r=vwo" width="140" alt="Elias Pires Abrão Galindo's Dev Card"/></a>  
+  <a href="https://app.daily.dev/Eliasgalindo0"><img src="https://api.daily.dev/devcards/2ebe880759cb4b48a63e76384b4ae03e.png?r=4fe" width="150" alt="Elias Pires Abrão Galindo's Dev Card"/></a> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
   
