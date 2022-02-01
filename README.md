@@ -1,9 +1,11 @@
 # Hi, I’m @EliasGalindo0
 
+
 <div align="center">
   <a href="https://github.com/EliasGalindo0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
+     <a href="https://app.daily.dev/Eliasgalindo0"><img src="https://api.daily.dev/devcards/2ebe880759cb4b48a63e76384b4ae03e.png?r=vwo" width="200" alt="Elias Pires Abrão Galindo's Dev Card"/></a>
 
 ![Snake animation](https://github.com/EliasGalindo0/EliasGalindo0/blob/output/github-contribution-grid-snake.svg)
   </div>  
