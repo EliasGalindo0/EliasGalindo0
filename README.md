@@ -1,7 +1,9 @@
 # Hi, I’m @EliasGalindo0
 <br>
-<img text-align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img text-align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGalindo0&layout=compact&langs_count=7&theme=dark"/>
+ </div>
 <br>
   
 ![Snake animation](https://github.com/EliasGalindo0/EliasGalindo0/blob/output/github-contribution-grid-snake.svg)
