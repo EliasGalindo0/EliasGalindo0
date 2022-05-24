@@ -4,7 +4,7 @@ Hi 👋 My name is Elias Pires Abrão Galindo
 Web developer Full Stack student at Trybe
 -----------------------------------------
 
-I'm absolutely lover of technology. Decided to study web development to transit from lawyer carrer to web developer.
+I'm love technology. Decided to study web development to transit from lawyer carrer to web developer. For that, I started to study at Trybe school, where I already lerned front-end stack with HTML, CSS, Javascript, React, Redux and Context API.
 
 * 🌍  I'm based in Presidente Prudente/SP
 * ✉️  You can contact me at [eliasgalindo@gmail.com](mailto:eliasgalindo@gmail.com)
