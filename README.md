@@ -8,7 +8,7 @@ I love technology. I decided to study web development in transition of a lawyer 
 
 * :computer: My portfolio link https://eliasgalindo0.github.io/Portfolio-React/
 * ✉️  You can contact me at [eliasgalindo@gmail.com](mailto:eliasgalindo@gmail.com)
-* 🧠  I'm learning MySQL / Docker / Mongo / Workbench
+* 🧠  I'm learning Python 🐍
 <br>
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EliasGalindo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
