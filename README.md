@@ -1,8 +1,8 @@
 Hi 👋 My name is Elias Pires Abrão Galindo
 ==========================================
 
-Full Stack Web Developer. Javascript | PHP | Python | React.JS | Node.JS | TypeScript | Tests | Docker | SQL
------------------------------------------
+Full Stack Web Developer - Javascript | PHP | Python | React.JS | Node.JS | TypeScript | Tests | Docker | SQL
+--------------------------------------------------------------------------------------------------------------
 
 * :computer: My portfolio link https://eliasgalindo0.github.io/Portfolio-React/
 * ✉️  You can contact me at [eliasgalindo@gmail.com](mailto:eliasgalindo@gmail.com)
