@@ -1,10 +1,8 @@
 Hi 👋 My name is Elias Pires Abrão Galindo
 ==========================================
 
-Web developer Full Stack student at Trybe
+Full Stack Web Developer. Javascript | PHP | Python | React.JS | Node.JS | TypeScript | Tests | Docker | SQL
 -----------------------------------------
-
-I love technology. I decided to study web development in transition of a lawyer career. At the moment I'm studying at Trybe School of Technology, where I learned front-end (HTML, CSS, Javascript, React, Redux and Context API). I'm learning back-end, Node JS, MySQL and Docker so far. I'm 35 years old and I live in Presidente Prudente, São Paulo, Brazil.
 
 * :computer: My portfolio link https://eliasgalindo0.github.io/Portfolio-React/
 * ✉️  You can contact me at [eliasgalindo@gmail.com](mailto:eliasgalindo@gmail.com)
