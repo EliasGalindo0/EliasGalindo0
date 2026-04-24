@@ -1,7 +1,7 @@
 Hi 👋 My name is Elias Pires Abrão Galindo
 ==========================================
 
-Software Engineer - Rust | Javascript | PHP | Python | React.JS | Node.JS | TypeScript | Tests | Docker | Kubernets | SQL
+Software Engineer | Backend & Financial Systems - Rust, Python, JavaScript (Node.js, React), C++, C#, PHP
 --------------------------------------------------------------------------------------------------------------
 
 * :computer: My portfolio link https://eliasgalindo0.github.io/Portfolio-React/
