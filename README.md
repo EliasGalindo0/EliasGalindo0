@@ -20,7 +20,7 @@ Software Engineer - Rust | Javascript | PHP | Python | React.JS | Node.JS | Type
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
- <a href="https://www.github.com/EliasGalindo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@eliasgalindo" height="30" width="40" /></a>
+<a href="https://www.github.com/EliasGalindo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@eliasgalindo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eliasgalindo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasgalindo/" height="30" width="40" /></a>
 <a href="https://fb.com/elias_galindo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/elias_galindo0" height="30" width="40" /></a>
 <a href="https://instagram.com/eliasgalindo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliasgalindo0" height="30" width="40" /></a>
